@@ -3,7 +3,7 @@
 **Data di rilascio:** [DATA]
 
 ---
-
+<!-- HIGHLIGHTS_START -->
 ## 🌟 Highlights
 
 **Key Stats for This Release:**
@@ -18,6 +18,7 @@
 3. **Custom Dashboards** - Tailor views to your team's needs
 
 ---
+<!-- HIGHLIGHTS_END -->
 
 ## 🎉 Cosa c'è di nuovo
 
