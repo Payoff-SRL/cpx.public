@@ -4,6 +4,21 @@
 
 ---
 
+## 🌟 Highlights
+
+**Key Stats for This Release:**
+- **Performance Boost:** Up to 40% faster report generation
+- **User Impact:** 5 new features requested by 80+ customers
+- **Stability:** 15 critical bugs fixed
+- **Adoption:** Already deployed to 3 enterprise clients
+
+**Top Features You'll Love:**
+1. **One-Click Export** - Save time with direct CSV/PDF downloads
+2. **Dark Mode** - Reduced eye strain for late-night work
+3. **Custom Dashboards** - Tailor views to your team's needs
+
+---
+
 ## 🎉 Cosa c'è di nuovo
 
 Breve descrizione dei miglioramenti principali di questa versione e come renderanno migliore la tua esperienza con CPX.blox.
