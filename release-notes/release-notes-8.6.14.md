@@ -25,6 +25,11 @@ Offri un servizio più efficiente e attento alle esigenze alimentari di tutti, c
 ### Sezione Release Notes
 Abbiamo aggiunto una sezione dedicata alle note di rilascio per consultare facilmente le novità delle versioni future.
 
+### Aggiunta possibilità di inserire una voce a menù con una dashboard nella pagina di gestione menù
+Abbiamo migliorato la pagina di gestione menù aggiungendo la possibilità di selezionare il tipo di voce. Ora, oltre alle opzioni già presenti, è possibile scegliere il tipo "Dashboard".
+
+In precedenza, le voci di menù che puntavano a una dashboard dovevano essere create direttamente via codice. Ora, invece, è possibile configurarle direttamente dalla pagina di gestione menù, semplificando notevolmente il processo.
+
 ---
 
 ## 🔧 Problemi Risolti
