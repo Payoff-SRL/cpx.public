@@ -1,4 +1,4 @@
-# Novità di CPX.blox v2.5
+# Novità di CPeople Azienda v8.6.14
 
 **Data di rilascio:** 25 Giugno 2025
 
@@ -6,7 +6,7 @@
 
 ## 🎉 Cosa c'è di nuovo
 
-Abbiamo introdotto diverse migliorie grafiche e funzionali per rendere CPX.blox ancora più completo e semplice da usare.  
+Abbiamo introdotto diverse migliorie grafiche e funzionali per rendere CPeople Azienda ancora più completo e semplice da usare.  
 Con questa versione, hai accesso a nuove sezioni e ad un'interfaccia rinnovata.
 
 ---
@@ -27,25 +27,9 @@ Abbiamo aggiunto una sezione dedicata alle note di rilascio per consultare facil
 
 ---
 
-## 🚀 Miglioramenti
-
-### Più Veloce
-- Ottimizzate le prestazioni generali della piattaforma
-- Ridotti i tempi di caricamento nelle pagine principali
-
-### Più Facile da Usare
-- Interfaccia grafica completamente rivista per una navigazione più chiara e moderna
-- Riorganizzata la dashboard per un accesso immediato alle funzionalità più usate
-
-### Più Affidabile
-- Corrette diverse problematiche di instabilità in fase di utilizzo prolungato
-- Migliorata la gestione degli errori e delle eccezioni
-
----
-
 ## 🔧 Problemi Risolti
 
-- Risolti alcuni bug in **CP Survey**, **CP Docs** e **AU**
+- Risolti alcuni bug in **CP Survey**, **CP Docs** e **Anagrafica**
 - Sistemati problemi grafici su dispositivi mobili
 
 ---
@@ -64,24 +48,5 @@ Questa versione funziona con:
 
 ---
 
-## 📚 Risorse Utili
+**Grazie per aver scelto CPeople Azienda!**
 
-- [Guida utente aggiornata](https://www.payoff.srl/guida-cpxblox)
-- [Video tutorial delle nuove funzionalità](https://www.payoff.srl/tutorial-cpxblox)
-- [Domande frequenti](https://www.payoff.srl/faq)
-
----
-
-## 📞 Hai Bisogno di Aiuto?
-
-Se hai domande o problemi con questa versione:
-
-- **Email di supporto:** support@payoff.srl  
-- **Centro assistenza:** [https://support.payoff.srl](https://support.payoff.srl)  
-- **Chat dal vivo:** Disponibile dal menu "Aiuto" nella piattaforma
-
----
-
-**Grazie per aver scelto CPX.blox!**
-
-© 2025 Payoff S.r.l. - Padova, Italia
