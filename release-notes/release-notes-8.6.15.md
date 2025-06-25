@@ -3,14 +3,14 @@
 **Data di rilascio:** 25 Giugno 2025
 
 ---
-
+<!-- HIGHLIGHTS_START -->
 ## 🎉 Cosa c'è di nuovo
 
 Abbiamo introdotto diverse migliorie grafiche e funzionali per rendere CPeople Azienda ancora più completo e semplice da usare.  
 Con questa versione, hai accesso a nuove sezioni e ad un'interfaccia rinnovata.
 
 ---
-
+<!-- HIGHLIGHTS_END -->
 ## ✨ Nuove Funzionalità
 
 ### CP Spesa
