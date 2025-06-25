@@ -1,4 +1,4 @@
-# Novità di CPeople Azienda v8.6.14
+# Novità di CPeople Azienda v8.6.15
 
 **Data di rilascio:** 25 Giugno 2025
 
