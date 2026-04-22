@@ -78,8 +78,7 @@ Questa versione funziona con:
 
 Se hai domande o problemi con questa versione:
 
-- **Email di supporto:** support@payoff.srl
-- **Centro assistenza:** [Link al portale di supporto]
+- **Email di supporto:** cpeople.azienda@centropaghe.it
 - **Chat dal vivo:** Disponibile dal menu "Aiuto" nella piattaforma
 
 ---
