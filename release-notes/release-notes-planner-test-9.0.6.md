@@ -1,4 +1,4 @@
-# Novità CP Planner v[VERSIONE]
+# Novità CP Planner v9.0.6
 
 **Data di rilascio:** [DATA]
 
@@ -6,39 +6,52 @@
 
 ## 🎉 Cosa c'è di nuovo
 
-Questa release introduce la nuova interfaccia di CP Planner. Il design e la visualizzazione dei dati sono stati rinnovati per rendere il lavoro quotidiano più rapido, intuitivo e personalizzabile.
+Questa release introduce la **nuova interfaccia di CP Planner**. Il design e la visualizzazione dei dati sono stati rinnovati per rendere il lavoro quotidiano più rapido, intuitivo e personalizzabile.
 
 ---
 
-## ✨ Nuove Funzionalità
+## ✨ Nuova interfaccia
 
-### Griglie dati interattive
-Nelle griglie è ora possibile ordinare le informazioni per contenuto e riposizionare le colonne in base alle proprie preferenze.
+### Gestione e visualizzazione dei dati
+Le griglie mostrano solo ciò che serve e si adattano al modo di lavorare di ciascun utente:
 
-### Layout personalizzabili
-È possibile impostare una visualizzazione di default che mostra subito solo i dati necessari o rilevanti per il proprio lavoro.
+- **Griglie dati interattive**
+  - Ordinamento delle informazioni per contenuto
+  - Riposizionamento delle colonne in base alle proprie preferenze
 
-### Reportistica immediata
-Da tutte le griglie a menu è possibile esportare in Microsoft Excel i dati presenti a video, con un solo clic.
+- **Layout personalizzabili**
+  - Visualizzazione di default con i soli dati necessari o rilevanti
+  - Configurazione salvata per le sessioni successive
 
-### Filtri di ricerca potenziati
-Le ricerche possono essere salvate come viste preferite e riutilizzate in seguito.
+- **Reportistica immediata**
+  - Esportazione in Microsoft Excel dei dati presenti a video
+  - Disponibile su tutte le griglie a menu, con un solo clic
 
-### Nuovo riepilogo dipendenti
-Il riepilogo dipendenti offre una panoramica aggiornata delle informazioni di turnazione, con esportazione dei dati per i riepiloghi operativi.
+### Ricerca e controllo
+Trovare e impostare i dati di pianificazione richiede meno passaggi:
+
+- **Filtri di ricerca potenziati**
+  - Ricerche eseguibili direttamente sulle griglie
+  - Viste preferite salvabili e riutilizzabili
+
+- **Configurazione delle impostazioni**
+  - Gestione più rapida di orari, turni, profili, squadre e fabbisogni
+  - Controllo della composizione in un unico flusso
+
+### Monitoraggio del personale
+
+- **Nuovo riepilogo dipendenti**
+  - Panoramica aggiornata delle informazioni di turnazione
+  - Esportazione dei dati per i riepiloghi operativi
 
 ---
 
-## 🚀 Miglioramenti
-
-### Configurazione più rapida
-La composizione di orari, turni, profili, squadre e fabbisogni si gestisce in modo più rapido e dinamico.
-
----
-
-## ⚠️ Modifiche Importanti
+## ⚠️ Modifiche importanti
 
 > **Nota:** L’interfaccia grafica e il modo in cui i dati vengono visualizzati sono diversi rispetto alle versioni precedenti. Le funzioni di pianificazione restano disponibili; cambia il modo di consultarle e personalizzarle.
+
+- **Cosa è cambiato:** design, griglie, filtri e riepilogo dipendenti
+- **Cosa resta invariato:** pianificazione di orari, turni, profili, squadre e fabbisogni
 
 ---
 
@@ -46,8 +59,7 @@ La composizione di orari, turni, profili, squadre e fabbisogni si gestisce in mo
 
 Per ulteriori informazioni o supporto:
 
-- **Email:** support@payoff.srl
-- **Portale di assistenza:** [link]
+- **Email:** cpeople.azienda@centropaghe.it
 
 ---
 
