@@ -1,6 +1,6 @@
-# Novità CP Planner v9.0.6
+# Novità CP Planner v10.7.0
 
-**Data di rilascio:** [DATA]
+**Data di rilascio:** 01/10/2026
 
 ---
 
@@ -59,7 +59,7 @@ Trovare e impostare i dati di pianificazione richiede meno passaggi:
 
 Per ulteriori informazioni o supporto:
 
-- **Email:** cpeople.azienda@centropaghe.it
+- **Email:** cpeople@centropaghe.it
 
 ---
 
