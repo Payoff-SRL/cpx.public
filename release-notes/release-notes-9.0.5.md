@@ -73,8 +73,7 @@ in base al verificarsi di uno o più dei seguenti eventi:
 
 Per ulteriori informazioni o supporto:
 
-- **Email:** support@payoff.srl  
-- **Portale di assistenza:** [link]
+- **Email:** cpeople.azienda@centropaghe.it
 
 ---
 
